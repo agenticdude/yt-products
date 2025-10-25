@@ -1,0 +1,14 @@
+Projects/*
+__pycache__
+venv/
+env/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+*.log
+temp_video_processing/
+projects.json
+cost_report.txt
+batch_state.json
+combined-process.zip
