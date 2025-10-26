@@ -134,7 +134,7 @@ def scale_video_to_1080p(input_path, output_path, quality_preset="high_quality")
         "-hwaccel", "cuda",
         "-hwaccel_output_format", "cuda",
         "-i", str(input_path),
-        "-vf", "scale_npp=1920:1080,hwdownload,format=yuv420p",
+        "-vf", "scale_npp=w=1920:h=1080,hwdownload,format=yuv420p",
         "-map", "0:v",
         "-map", "0:a?",  # Include audio if present
         "-c:v", "h264_nvenc",
