@@ -132,7 +132,7 @@ def scale_video_to_1080p(input_path, output_path, quality_preset="high_quality")
     cmd = [
         "ffmpeg", "-y",
         "-i", str(input_path),
-        "-vf", "scale=1920:1080:flags=lanczos",
+        "-vf", "scale=1920:1080:flags=interp_algo=3",
         "-map", "0:v",
         "-map", "0:a?",  # Include audio if present
         "-c:v", "h264_nvenc",
