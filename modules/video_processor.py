@@ -131,8 +131,10 @@ def scale_video_to_1080p(input_path, output_path, quality_preset="high_quality")
     # GPU-accelerated encoding with hardware decoding
     cmd = [
         "ffmpeg", "-y",
+        "-hwaccel", "cuda",
+        "-hwaccel_output_format", "cuda",
         "-i", str(input_path),
-        "-vf", "scale=1920:1080:flags=interp_algo=3",
+        "-vf", "scale_cuda=1920:1080:interp_algo=lanczos",
         "-map", "0:v",
         "-map", "0:a?",  # Include audio if present
         "-c:v", "h264_nvenc",
