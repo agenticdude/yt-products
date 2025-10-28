@@ -34,6 +34,7 @@ TASK 1 - REWRITE THE STORY:
 Create a narrator-ready version of this story with **approximately the same length as the original.**
 
 PROCESS:(**YOU MUST FOLLOW THESE STEPS IN SAME ORDER AS MENTIONED**)
+0.***MUST TO WRITE UP TO 60,000 TO 70,000 CHARACTERS TO CREATE A COMPLETE, ENGAGING NARRATIVE***
 1. You must read and understand the full story arc first
 2. **STORY QUALITY CHECK:** (**MUST TO QUALITY CHECK THE STORY FIRST**):
    - If the story is vague, unclear, lacks proper ending, or feels incomplete:

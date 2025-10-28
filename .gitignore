@@ -12,3 +12,5 @@ projects.json
 cost_report.txt
 batch_state.json
 combined-process.zip
+main.py
+prompt.txt
