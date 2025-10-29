@@ -34,14 +34,14 @@ TASK 1 - REWRITE THE STORY:
 Create a narrator-ready version of this story with **approximately the same length as the original.**
 
 PROCESS:(**YOU MUST FOLLOW THESE STEPS IN SAME ORDER AS MENTIONED**)
-0.***MUST TO WRITE UP TO 60,000 TO 70,000 CHARACTERS TO CREATE A COMPLETE, ENGAGING NARRATIVE***
+0.***MUST TO WRITE AT LEAST 60,000 TO 70,000 CHARACTERS TO CREATE A COMPLETE, ENGAGING NARRATIVE***
 1. You must read and understand the full story arc first
 2. **STORY QUALITY CHECK:** (**MUST TO QUALITY CHECK THE STORY FIRST**):
    - If the story is vague, unclear, lacks proper ending, or feels incomplete:
      * Expand and enhance the story based on its core theme
      * Add necessary context, character development, and emotional depth
      * Create a proper, satisfying conclusion
-     **WRITE UP TO 60,000 TO 70,000 CHARACTERS TO CREATE A COMPLETE, ENGAGING NARRATIVE**
+     **WRITE AT LEAST 60,000 TO 70,000 CHARACTERS TO CREATE A COMPLETE, ENGAGING NARRATIVE**
      * Maintain the original theme and emotional core while improving clarity
    - If the story is already complete and clear:
      * Proceed with standard rewrite matching original length
@@ -61,7 +61,7 @@ PROCESS:(**YOU MUST FOLLOW THESE STEPS IN SAME ORDER AS MENTIONED**)
    - storyteller voice
 
 TARGET:(**MUST TO FOLLOW THIS TARGET:**)
-**Match original length within 5% (shorter or longer is fine if story needs it)**
+**MUST Match original length within 5% (shorter or longer is fine if story needs it)**
 
 LANGUAGE: **SPANISH** ,
 
